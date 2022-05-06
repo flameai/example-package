@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: example-package
+Version: 0.0.1
+Summary: First package
+Home-page: https://gitlab.com/someth
+Author: Alexander Andryukov
+Author-email: andryukov@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://gitlab.com/someth/bug_tracker
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# My first package module 
+
+`
+def add_one(number)
+`
+
+
